@@ -1,0 +1,13 @@
+C:\Users\koche\Desktop\Work\bin\Debug\Work.exe.config
+C:\Users\koche\Desktop\Work\bin\Debug\Work.exe
+C:\Users\koche\Desktop\Work\bin\Debug\Work.pdb
+C:\Users\koche\Desktop\Work\bin\Debug\EntityFramework.dll
+C:\Users\koche\Desktop\Work\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\koche\Desktop\Work\bin\Debug\EntityFramework.xml
+C:\Users\koche\Desktop\Work\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\koche\Desktop\Work\obj\Debug\Work.csproj.AssemblyReference.cache
+C:\Users\koche\Desktop\Work\obj\Debug\Work.csproj.SuggestedBindingRedirects.cache
+C:\Users\koche\Desktop\Work\obj\Debug\Work.csproj.CoreCompileInputs.cache
+C:\Users\koche\Desktop\Work\obj\Debug\Work.csproj.CopyComplete
+C:\Users\koche\Desktop\Work\obj\Debug\Work.exe
+C:\Users\koche\Desktop\Work\obj\Debug\Work.pdb
